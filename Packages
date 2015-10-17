@@ -5,9 +5,9 @@ Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: com.codethemed.iconbundles
 Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.2_iphoneos-arm.deb
 Size: 46084
-MD5sum: F8007E256216F5816209291DC23ED626
-SHA1: 1D5F25284C83D9405193680FD43E46DAC5952159
-SHA256: 51E30CAF1EE29007140FCED3A45695C9E10D4812DB61A9C6785143E4394918AF
+MD5sum: f8007e256216f5816209291dc23ed626
+SHA1: 1d5f25284c83d9405193680fd43e46dac5952159
+SHA256: 51e30caf1ee29007140fced3a45695c9e10d4812db61a9c6785143e4394918af
 Section: Themes
 Description: Fixes some icons not working properly
 Author: 7bubbl3s <darklightunsparkle@live.it>
