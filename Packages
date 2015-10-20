@@ -12,3 +12,78 @@ Section: Themes
 Description: Fixes some icons not working properly
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Graphic fixes for iOS 4-5-6
+
+Package: com.7bubbl3s.ayeconfixes
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: com.codethemed.iconbundles
+Filename: debs//com.7bubbl3s.ayeconfixes_1.0.1_iphoneos-arm.deb
+Size: 394728
+MD5sum: 9355ad6137d45ced661f550e4f97de10
+SHA1: bbbefda30c74ec5b639ed2b430a234c39654d532
+SHA256: 1a47e3245faf71c015b55b60c20c09cb05927f8bc6948930912fbb8b5d6a571c
+Section: Themes
+Description: Fixes some Ayecon icons (for iOS 4-5-6)
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Ayecon FIXES
+
+Package: com.7bubbl3s.colorgasmfixes
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: com.codethemed.iconbundles
+Filename: debs//com.7bubbl3s.colorgasmfixes_1.0.1_iphoneos-arm.deb
+Size: 111366
+MD5sum: 44e54a796b9df2007a7435f1303e49c1
+SHA1: c861bbc04932e734d2203d5c8b2c73a03c224f0b
+SHA256: 41d318bced5d2a4ca0d393ca2dd873e2b48efcc2c9c163b8fb928bc43f8a09be
+Section: Themes
+Descritpion: Fixes some Colorgasm HD features
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Colorgasm FIXES
+
+Package: com.7bubbl3s.inpulsefixes
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: com.codethemed.iconbundles
+Filename: debs//com.7bubbl3s.inpulsefixes_1.0.2_iphoneos-arm.deb
+Size: 998658
+MD5sum: 47630bb15d284bef9ba95900a6a43b3c
+SHA1: 914f89834c22a166ca45b4788afc5181cd5081d3
+SHA256: aa4a49cc3ff7af6b1c19ea6ad716f853690446c813da98319672ca48fcf21cc7
+Section: Themes
+Description: Fix some inPulse features
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: inPulse FIXES
+
+Package: com.7bubbl3s.ios5themeforios6
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard
+Filename: debs//com.7bubbl3s.ios5themeforios6_1.0_iphoneos-arm.deb
+Size: 983790
+MD5sum: 6d73b273c7db3cb60e7102bed352e571
+SHA1: 7d779630dd1f9ebea6cca205c2d19f2acec6685f
+SHA256: ebb8bbdfb30e6f88e404ce8a3a283ef96c431600270852cbab4939b807af2a00
+Section: Themes
+Description: make iOS 6 look like iOS 5!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: iOS 5 theme for iOS 6
+
+Package: com.7bubbl3s.transparentlockscreen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard
+Filename: debs//com.7bubbl3s.transparentlockscreen_1.0_iphoneos-arm.deb
+Size: 8876
+MD5sum: 6d73b273c7db3cb60e7102bed352e571
+SHA1: 7d779630dd1f9ebea6cca205c2d19f2acec6685f
+SHA256: ebb8bbdfb30e6f88e404ce8a3a283ef96c431600270852cbab4939b807af2a00
+Section: Themes
+Description: For iOS 4-5-6, retina only
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Transparent Lockscreen
