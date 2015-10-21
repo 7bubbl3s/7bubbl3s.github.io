@@ -80,9 +80,9 @@ Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard
 Filename: debs//com.7bubbl3s.transparentlockscreen_1.0_iphoneos-arm.deb
 Size: 8876
-MD5sum: 6d73b273c7db3cb60e7102bed352e571
-SHA1: 7d779630dd1f9ebea6cca205c2d19f2acec6685f
-SHA256: ebb8bbdfb30e6f88e404ce8a3a283ef96c431600270852cbab4939b807af2a00
+MD5sum: 7018153ce111901404deddd48c99f5b8
+SHA1: 4dc58d3d700122a45a29efa91d93a08bed63cc14
+SHA256: de6c6bb4faff7d36bfa9c2210dc6f7810fd0bdd8ad0246057a0c54c65d6728a1
 Section: Themes
 Description: For iOS 4-5-6, retina only
 Author: 7bubbl3s <darklightunsparkle@live.it>
