@@ -87,3 +87,18 @@ Section: Themes
 Description: For iOS 4-5-6, retina only
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Transparent Lockscreen
+
+Package: com.7bubbl3s.dial2piano
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard
+Filename: debs//com.7bubbl3s.dialer2piano_1.0_iphoneos-arm.deb
+Size: 1133040
+MD5sum: fe38a2347f449a39c408067738a4cc0d
+SHA1: e91489214d4f6e68ad46d5e40ccbe65a2e5115a0
+SHA256: cb7ce5c0595e3c0c972e14a36f0fc9a66e17867c503cff4c349e68767b95c8b6
+Section: Themes
+Description: transform your dialpad into a piano!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Dialer2Piano WinterBoard Edition
