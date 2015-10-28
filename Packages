@@ -102,3 +102,33 @@ Section: Themes
 Description: transform your dialpad into a piano!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Dialer2Piano WinterBoard Edition
+
+Package: com.7bubbl3s.ios4betafolders
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard, com.7bubbl3s.ios5themeforios6, com.7bubbl3s.ios4icons
+Filename: debs//com.7bubbl3s.ios4betafolders_1.0_iphoneos-arm.deb
+Size: 609240
+MD5sum: 294fc1c3d736ed117af228691bc88fd7
+SHA1: 115dba7f6512b040aa0d47830ceb0e28d5949661
+SHA256: 573bc50977dc551b6d53447d18302b96f3f35dc15ca086d8885f3f94e789142f
+Section: Themes
+Description: make your folders like Apple made them in iOS 4.0 beta!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: iOS 4.0 beta folders
+
+Package: com.7bubbl3s.ios4icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard, com.7bubbl3s.ios5themeforios6, com.7bubbl3s.ios4betafolders
+Filename: debs//com.7bubbl3s.ios4icons_1.0_iphoneos-arm.deb
+Size: 35606
+MD5sum: 4651d57943133c6a3b846530c051ac1c
+SHA1: e6af6bc27b94576fe05c3bb99e73b996fc4bd7a0
+SHA256: c2703c14c3df0cdd0c920ed4cebfb7491fe57e51c72e986a87141a59ab978368
+Section: Themes
+Description: Make your iOS 5-6 iPhone-iPod look like iOS 4!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: iOS 4 icons (addon for iOS 5 theme)
