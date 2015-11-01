@@ -59,7 +59,7 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: inPulse FIXES
 
 Package: com.7bubbl3s.ios5themeforios6
-Version: 1.0.2
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard
@@ -132,3 +132,18 @@ Section: Themes
 Description: Make your iOS 5-6 iPhone-iPod look like iOS 4!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: iOS 4 icons (addon for iOS 5 theme)
+
+Package: com7bubbl3s.derpyfixforios6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard, com.iphonerepocenter.derpyhoovestheme
+Filename: debs//com.7bubbl3s.derpyfixforios6_1.0_iphoneos-arm.deb
+Size: 14868
+MD5sum: 3bbe416ccc363d53466138622f9d2a0c
+SHA1: 4372ca1d0198a20b9157fb94435cb7a50ef73faa
+SHA256: 6c9f3f2ea70ad15f53a753b226070a5f07bcda1ace1173f25b31c146c2c61689
+Section: Themes
+Description: Fixes Derpy Hooves Theme by FozzyWig on iOS 6
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Derpy fix for iOS 6
