@@ -88,7 +88,7 @@ Description: For iOS 4-5-6, retina only
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Transparent Lockscreen
 
-Package: com.7bubbl3s.dial2piano
+Package: com.7bubbl3s.dialer2piano
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
