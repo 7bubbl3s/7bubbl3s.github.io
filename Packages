@@ -3,7 +3,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: com.codethemed.iconbundles, com.modmyi.oldcydia
-Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.2_iphoneos-arm.deb
+Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.3_iphoneos-arm.deb
 Size: 46098
 MD5sum: 6e627eab4758a8eb4ffad72689ebc78f
 SHA1: b4c9b4ead73b88db405bee7804aadd6c74d81dc1
@@ -63,7 +63,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
-Filename: debs//com.7bubbl3s.ios5themeforios6_1.0_iphoneos-arm.deb
+Filename: debs//com.7bubbl3s.ios5themeforios6_1.0.1_iphoneos-arm.deb
 Size: 983806
 MD5sum: 826e7366ecdc0686d0ee973b5e4ba0b5
 SHA1: 82de6c0758a921740a45abfed93fd873fabc38fa
