@@ -1,28 +1,28 @@
 Package: com.7bubbl3s.graphicfixesios4-5-6
-Version: 1.0.3
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: com.codethemed.iconbundles, com.modmyi.oldcydia
-Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.3_iphoneos-arm.deb
-Size: 46098
-MD5sum: 6e627eab4758a8eb4ffad72689ebc78f
-SHA1: b4c9b4ead73b88db405bee7804aadd6c74d81dc1
-SHA256: 8da012168895f2ea611aca398aef3546e49d42b6b6506b54aa6fbe353a4fb053
+Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.5_iphoneos-arm.deb
+Size: 113294
+MD5sum: a1ba4b52b638b66d64b3b28247932505
+SHA1: 75dc2d3c7916a0cf3d1cf6e3b11749109ea42a1f
+SHA256: b36f5fb6e17d95b1975eae3b27c9e507535eece874b946bc941e1cc1a6c81ca8
 Section: Themes
 Description: Fixes some icons not working properly
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Graphic fixes for iOS 4-5-6
 
 Package: com.7bubbl3s.ayeconfixes
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: com.codethemed.iconbundles
-Filename: debs//com.7bubbl3s.ayeconfixes_1.0.1_iphoneos-arm.deb
-Size: 394728
-MD5sum: 9355ad6137d45ced661f550e4f97de10
-SHA1: bbbefda30c74ec5b639ed2b430a234c39654d532
-SHA256: 1a47e3245faf71c015b55b60c20c09cb05927f8bc6948930912fbb8b5d6a571c
+Filename: debs//com.7bubbl3s.ayeconfixes_1.0.2_iphoneos-arm.deb
+Size: 395092
+MD5sum: 5ef417410e25dbf23046fe88df9bf65a
+SHA1: 27bcb95db8ee02aa03246b5c1007cfe7bea5a829
+SHA256: 6d3ac119d3327e05e9f723e6ff63e38e77807521613a66a4d67200ae1a9706a0
 Section: Themes
 Description: Fixes some Ayecon icons (for iOS 4-5-6)
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -133,7 +133,7 @@ Description: Make your iOS 5-6 iPhone-iPod look like iOS 4!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: iOS 4 icons (addon for iOS 5 theme)
 
-Package: com7bubbl3s.derpyfixforios6
+Package: com.7bubbl3s.derpyfixforios6
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
@@ -147,3 +147,17 @@ Section: Themes
 Description: Fixes Derpy Hooves Theme by FozzyWig on iOS 6
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Derpy fix for iOS 6
+
+Package: com.7bubbl3s.tweetbot4italiano
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Redenfire <?????>
+Filename: debs//com.7bubbl3s.tweetbot4italiano_1.0_iphoneos-arm.deb
+Size: 654
+MD5sum: ceb7e1691f7099447115c1f43493fae4
+SHA1: 15ac30b2de675820d0cb52d0142257d70debef2b
+SHA256: 5f31477537b749f9acf28ce4242d454af282b76a470658d692ddd089f20cbd75
+Section: Themes
+Description: vedi cartella /var/mobile/Tweetbot 4 ITA by 7bubbl3s dopo installazione
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Tweetbot 4 ITALIANO by 7bubbl3s
