@@ -1,13 +1,13 @@
 Package: com.7bubbl3s.graphicfixesios4-5-6
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=5.0), com.codethemed.iconbundles, com.modmyi.oldcydia | firmware (<=4.3.5)
-Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.6_iphoneos-arm.deb
-Size: 113322
-MD5sum: 9743efe92f04387253f950b6e861d9f5
-SHA1: ee2e8ca03fbce7d7e23ef5099f5534c90018cd97
-SHA256: 38c064b89d18cf68b6a89ddf13c0c9c2eda30f8b6ebb82b3094f7730894b53db
+Depends: firmware (>=5.0), com.codethemed.iconbundles, com.modmyi.oldcydia
+Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.7_iphoneos-arm.deb
+Size: 150134
+MD5sum: 191290878c6b7b9fbe781cd84bd6bd88
+SHA1: d6532749faac76ff2dd5ba9841779b0cb4eb5d9d
+SHA256: 9a58a018fce7380c30c9214fe77c9a24cefb4fdf5b2901649bc4f285a8c384ad
 Section: Themes
 Description: Fixes some icons not working properly
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -176,3 +176,69 @@ Section: Themes (NotificationCenter)
 Description: dedicated to my friend @curlyananas and to everyone who remembers redsn0w
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Running Pineapple NC (iPhone-iPod)
+
+Package: com.7bubbl3s.graviboardios4
+Version: 1.06-2
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: firmware (>=4.0), mobilesubstrate, libactivator, preferenceloader
+Conflicts: com.conradkramer.graviboard, com.aaronash.smoothboard, org.thebigboss.graviboard
+dev: conradkramer
+Homepage: http://kramerapps.com/cydia/graviboard/
+Icon: file:///System/Library/PreferenceBundles/GraviboardSettings.bundle/Graviboard@2x.png
+Installed-Size: 296
+Replaces: com.conradkramer.graviboard, org.thebigboss.graviboard
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension
+Filename: debs//com.7bubbl3s.graviboardios4_1.06-2_iphoneos-arm.deb
+Size: 143392
+MD5sum: 863624ff148ea26f575b0f816dd31fd2
+SHA1: 503c84398086a1b4cc670910b3edbe8a9e65c155
+SHA256: 7f287adf374ba4c531b48ac3938e8aacd9364086128f63219cfdb7f532a6f06f
+Section: iOS 4 club
+Description: Graviboard for iOS4
+Author: Conrad Kramer <support@kramerapps.com>
+Name: Graviboard
+
+Package: com.7bubbl3s.runningpineapplencipad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: firmware (>=5.0), winterboard
+Filename: debs//com.7bubbl3s.runningpineapplencipad_1.0_iphoneos-arm.deb
+Size: 921326
+MD5sum: 61955084eb914d64d0beb0f2c2251753
+SHA1: ed97a89ebcba62ed2eda04183158e4cf503de256
+SHA256: 1753582f881da0d27f8c31a1826fb423a97b9ce9bf9846b5178bab92eafe5b5c
+Section: Themes (NotificationCenter)
+Description: dedicated to my friend @curlyananas and to everyone who remembers redsn0w
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Running Pineapple NC (iPad)
+
+Package: com.7bubbl3s.apptodebitalian
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.apptodebitalian_1.0_iphoneos-arm.deb
+Size: 1692
+MD5sum: 472b4364af34db55f7614d0a14c75a45
+SHA1: 243905d9cff58b6a070c6325b9f69b2283ff618b
+SHA256: 21457c96b795ee3e9e37abce16aff790c53e74510d2ff0d8764882422de5ea70
+Section: Localization
+Description: traduce AppToDeb in lingua italiana
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: AppToDeb in ITALIANO
+
+Package: com.7bubbl3s.debmakeritalian
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.debmakeritalian_1.0_iphoneos-arm.deb
+Size: 2340
+MD5sum: 0b935818cbff0b9880cdd9a2b28a6391
+SHA1: 0894c27723fb56d0da44eda136432a3d0361cf06
+SHA256: 35d8a561147f20f339f4f177840d46b839572f4eee81b1ba5f4b4f5fcf48e240
+Section: Localization
+Description: traduce DebMaker in lingua italiana
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: DebMaker in ITALIANO
