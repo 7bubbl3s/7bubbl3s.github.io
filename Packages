@@ -242,3 +242,61 @@ Section: Localization
 Description: traduce DebMaker in lingua italiana
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: DebMaker in ITALIANO
+
+Package: com.7bubbl3s.bubblenews
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.bubblenews_1.0_iphoneos-arm.deb
+Size: 50644
+MD5sum: e894888a801b91b2f0f9d8e1bf4818f1
+SHA1: 12ee2e15a3b500843d13bc71c28ee77c7e1da057
+SHA256: 4dfcf8ef00a5920fe40d70e91f502dafdb4f45a4f1fc1f71009b9b6d2a6692a3
+Section: Site-Specific Apps
+Description: My first iOS app, shows my twitter page. Thanks @colamiki30 for the help :)
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: BubbleNews
+
+Package: com.7bubbl3s.edmphonedials
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard
+Filename: debs//com.7bubbl3s.edmphonedials_1.0_iphoneos-arm.deb
+Size: 1228794
+MD5sum: ab9a3ae5d485efe07545ca91f0c732be
+SHA1: ea5d40984420a7411d329aba70db0f6c5026e457
+SHA256: 582b51b69ab16745a187e743219bc4aa5ed700c45ab46c8dc0516dfdfd8ce49e
+Section: Themes
+Description: Transform your Phone app into an EDM machine!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: EDM Phone Dials
+
+Package: com.7bubbl3s.vlc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Icon: file:///Applications/VLC.app/Icon.png
+Filename: debs//com.7bubbl3s.vlc_1.0_iphoneos-arm.deb
+Size: 5258590
+MD5sum: fb847ccf358681f6c3457fda1ff0b60e
+SHA1: 699ba3e5c2544841db3f60f95e1f28c1323c1d46
+SHA256: 05e992c8bf2419acf0735fc0d3cbcdeb482d05ec0363ede432269fb809746cdf
+Section: Entertainment
+Description: VLC app, formerly on ZodTTD repo, reuploaded here. Has iOS 6 style
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: VLC Media Player
+
+Package: com.7bubbl3s.ios4clubicon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.ios4clubicon_1.0_iphoneos-arm.deb
+Size: 4690
+MD5sum: 5bac29cdaf848990e92395c108278b6b
+SHA1: a84f1bda0d8ea663ab36bd7f3a2e6f46f94b2407
+SHA256: 1bf0a1c390ab0a83f25d7deaa7915c500d72ffe88ff7d3d95412658d4efd1ce5
+Section: iOS 4 club icon
+Description: my iOS 4 section icon
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: iOS 4 club icon
