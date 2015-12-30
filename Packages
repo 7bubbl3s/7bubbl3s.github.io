@@ -1,73 +1,73 @@
 Package: com.7bubbl3s.graphicfixesios4-5-6
-Version: 1.0.7
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=5.0), com.codethemed.iconbundles, com.modmyi.oldcydia
-Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.0.7_iphoneos-arm.deb
-Size: 150134
-MD5sum: 191290878c6b7b9fbe781cd84bd6bd88
-SHA1: d6532749faac76ff2dd5ba9841779b0cb4eb5d9d
-SHA256: 9a58a018fce7380c30c9214fe77c9a24cefb4fdf5b2901649bc4f285a8c384ad
+Depends: firmware (>=4.0), com.modmyi.oldcydia | firmware (>=6.0), com.codethemed.iconbundles, com.modmyi.oldcydia
+Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.1_iphoneos-arm.deb
+Size: 150138
+MD5sum: cf296c117ae6e1ccc423eb502a3814fa
+SHA1: 1ac83e753b65dfff2a310aef2bebb32e005a3441
+SHA256: 61ce21e1de5b6502af939cf5923393287334d46dd9effa89282ccc177274b4e3
 Section: Themes
 Description: Fixes some icons not working properly
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Graphic fixes for iOS 4-5-6
 
 Package: com.7bubbl3s.ayeconfixes
-Version: 1.0.3
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=5.0), com.codethemed.iconbundles | firmware (<=4.3.5)
-Filename: debs//com.7bubbl3s.ayeconfixes_1.0.3_iphoneos-arm.deb
-Size: 395120
-MD5sum: 3d8a59e7bc159510e6cb599a0e8e7f91
-SHA1: dfa341e6a05bc7f19a7cc96b06f6111f02d57237
-SHA256: 4f4c69d3cf2387cf9b400cb97eb90639b4aae6390504f8dcdbed2180d1fd0cd1
+Depends: firmware (>=4.0), com.modmyi.oldcydia | firmware (>=6.0), com.codethemed.iconbundles, com.modmyi.oldcydia
+Filename: debs//com.7bubbl3s.ayeconfixes_1.1_iphoneos-arm.deb
+Size: 395126
+MD5sum: dc5362621d28f7bc908a4e338b1e2717
+SHA1: 681db3a585043bc0269d301b4d6c81e58b54a37c
+SHA256: 59f80ff7ff7023a03158c023fc1779cc0bf81a63d8112acde77029b4b51f4669
 Section: Themes
 Description: Fixes some Ayecon icons (for iOS 4-5-6)
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Ayecon FIXES
 
 Package: com.7bubbl3s.colorgasmfixes
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=5.0), com.codethemed.iconbundles | firmware (<=4.3.5)
-Filename: debs//com.7bubbl3s.colorgasmfixes_1.0.2_iphoneos-arm.deb
-Size: 111396
-MD5sum: 7d1916584881c0551a839405fe39218e
-SHA1: a348b2c7a73395ed73f4f1cd46d28abeecfd5935224f0b
-SHA256: 2eeb8d36d27d2ccd87a0555b29fcaf64b2cf6ce5422a8f7ab157d5e14f714950
+Depends: firmware (>=4.0)
+Filename: debs//com.7bubbl3s.colorgasmfixes_1.1_iphoneos-arm.deb
+Size: 110640
+MD5sum: 26bf986698bc240823cd10a6a25eecf0
+SHA1: d453d25402b1db44921a7ae0539704bf1b4536ee
+SHA256: eacdd9f4273b17ca365a4a9592bffe3f8a355daa2010dc1fa4736fa4bec1cbc0
 Section: Themes
 Descritpion: Fixes some Colorgasm HD features
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Colorgasm FIXES
 
 Package: com.7bubbl3s.inpulsefixes
-Version: 1.0.3
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=5.0), com.codethemed.iconbundles | firmware (<=4.3.5)
+Depends: firmware (>=4.0), com.modmyi.oldcydia | firmware (>=6.0), com.codethemed.iconbundles, com.modmyi.oldcydia
 Filename: debs//com.7bubbl3s.inpulsefixes_1.0.3_iphoneos-arm.deb
-Size: 998688
-MD5sum: 46bbff17bbed277cda3afa5e1209497b
-SHA1: cebccc3665895e8df977f5b49762f723585990fb
-SHA256: 4aa2a35cb37c5fc7fdfb0c9b07bd3773196091192f7d05b6e2dfd1a8aef77d8e
+Size: 998704
+MD5sum: 
+SHA1: 
+SHA256: 
 Section: Themes
 Description: Fix some inPulse features
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: inPulse FIXES
 
 Package: com.7bubbl3s.ios5themeforios6
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
-Filename: debs//com.7bubbl3s.ios5themeforios6_1.0.1_iphoneos-arm.deb
-Size: 983806
-MD5sum: 826e7366ecdc0686d0ee973b5e4ba0b5
-SHA1: 82de6c0758a921740a45abfed93fd873fabc38fa
-SHA256: 0f0840349e3a3885e2412c6075496e75da7ec30e0f47a9c641925c279cfa3e2c
+Filename: debs//com.7bubbl3s.ios5themeforios6_1.0.2_iphoneos-arm.deb
+Size: 1037372
+MD5sum: ba0cd7c9c2eb2035c87cb7f13c56d57e
+SHA1: ba2b26dd0ef17e153b8eb446d11e439fddb3e00b
+SHA256: d20e5595b3d48efd39c55d7f16b9c90eebcf79ae27a660e2da51534767f52fcd
 Section: Themes
 Description: make iOS 6 look like iOS 5!
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -300,3 +300,17 @@ Section: iOS 4 club
 Description: my iOS 4 section icon
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: iOS 4 club icon
+
+Package: com.7bubbl3s.graphicfixesipad
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.graphicfixesipad_0.1_iphoneos-arm.deb
+Size: 59230
+MD5sum: 1c89e3c91aaad6fe63ab02d060a9fe40
+SHA1: 377b95a19975a254e0195498b7c2b976f0b831e1
+SHA256: 4853fc07e651874ba23dd1e92d1dff3ae5a1d32865aa2f1e5e044e6611c4f012
+Section: Themes (iPad)
+Description: Fixes some icons not working properly. For iPad
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Graphic Fixes (iPad) for iOS 4-5-6
