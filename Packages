@@ -65,9 +65,9 @@ Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
 Filename: debs//com.7bubbl3s.ios5themeforios6_1.0.2_iphoneos-arm.deb
 Size: 1037372
-MD5sum: ba0cd7c9c2eb2035c87cb7f13c56d57e
-SHA1: ba2b26dd0ef17e153b8eb446d11e439fddb3e00b
-SHA256: d20e5595b3d48efd39c55d7f16b9c90eebcf79ae27a660e2da51534767f52fcd
+MD5sum: 0cdcdbcec7637342ec4888f70367f999
+SHA1: e304d0f07682dd13c351efd5a17ac304ad835d42
+SHA256: c0353cb9175366132bed37649b6e79856eb4e5440e9a4acd6ff359e8b9999408
 Section: Themes
 Description: make iOS 6 look like iOS 5!
 Author: 7bubbl3s <darklightunsparkle@live.it>
