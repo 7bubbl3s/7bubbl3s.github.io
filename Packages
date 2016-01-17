@@ -59,15 +59,15 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: inPulse FIXES
 
 Package: com.7bubbl3s.ios5themeforios6
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
-Filename: debs//com.7bubbl3s.ios5themeforios6_1.0.2_iphoneos-arm.deb
-Size: 1037372
-MD5sum: 0cdcdbcec7637342ec4888f70367f999
-SHA1: e304d0f07682dd13c351efd5a17ac304ad835d42
-SHA256: c0353cb9175366132bed37649b6e79856eb4e5440e9a4acd6ff359e8b9999408
+Filename: debs//com.7bubbl3s.ios5themeforios6_1.1_iphoneos-arm.deb
+Size: 1473118
+MD5sum: bc50a780d3a1ecfe1b70874dfe749a28
+SHA1: e5aa57a12b97782022217d1d23f0f0bca8bcb8c2
+SHA256: 308d6fd0ef7239302c717137f4be34a909699512b9d2c6d550f930ba7716acd6
 Section: Themes
 Description: make iOS 6 look like iOS 5!
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -104,30 +104,30 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Dialer2Piano WinterBoard Edition
 
 Package: com.7bubbl3s.ios4betafolders
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.ios5themeforios6, com.7bubbl3s.ios4icons
-Filename: debs//com.7bubbl3s.ios4betafolders_1.0_iphoneos-arm.deb
-Size: 609240
-MD5sum: 294fc1c3d736ed117af228691bc88fd7
-SHA1: 115dba7f6512b040aa0d47830ceb0e28d5949661
-SHA256: 573bc50977dc551b6d53447d18302b96f3f35dc15ca086d8885f3f94e789142f
+Filename: debs//com.7bubbl3s.ios4betafolders_1.1_iphoneos-arm.deb
+Size: 647788
+MD5sum: 6eb20b1cfc5fb432c8079c3a6ad38096
+SHA1: 7d03a37b897cca1179d71fb124cc986e7e1c4916
+SHA256: 3aa8088ee9a47a304acafcf7306ef6cea1c2fd1e175e3e6dbc6781638d273077
 Section: Themes
 Description: make your folders like Apple made them in iOS 4.0 beta!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: iOS 4.0 beta folders
 
 Package: com.7bubbl3s.ios4icons
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.ios5themeforios6, com.7bubbl3s.ios4betafolders
-Filename: debs//com.7bubbl3s.ios4icons_1.0_iphoneos-arm.deb
-Size: 35606
-MD5sum: 4651d57943133c6a3b846530c051ac1c
-SHA1: e6af6bc27b94576fe05c3bb99e73b996fc4bd7a0
-SHA256: c2703c14c3df0cdd0c920ed4cebfb7491fe57e51c72e986a87141a59ab978368
+Filename: debs//com.7bubbl3s.ios4icons_1.1_iphoneos-arm.deb
+Size: 77350
+MD5sum: 8a55b57b6144f015df2a5ed01f359fee
+SHA1: fc1fc52f2e1fb546eac194b15bc08737b731a2c1
+SHA256: b82ab7e2586009495fe5f9d82aca9c765910da27b689af53648f2aeab033b434
 Section: Themes
 Description: Make your iOS 5-6 iPhone-iPod look like iOS 4!
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -305,6 +305,7 @@ Package: com.7bubbl3s.graphicfixesipad
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: com.7bubbl3s.inpulsefixes
 Filename: debs//com.7bubbl3s.graphicfixesipad_0.1_iphoneos-arm.deb
 Size: 59230
 MD5sum: 1c89e3c91aaad6fe63ab02d060a9fe40
@@ -314,3 +315,17 @@ Section: Themes (iPad)
 Description: Fixes some icons not working properly. For iPad
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Graphic Fixes (iPad) for iOS 4-5-6
+
+Package: com.7bubbl3s.inpulseaddons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.inpulseaddons_1.0_iphoneos-arm.deb
+Size: 55378
+MD5sum: 2d6baaa6f12208a558bb7aba343cbc1c
+SHA1: 5427b45747020bcd639c03b68b8edd65d3c9dbcd
+SHA256: 47031ac02e4d044f03bda3563ef04b2ffa8abcf4c5ef7182bfadf8c44303a1bb
+Section: Themes
+Description: More icons for inPulse!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: inPulse addons
