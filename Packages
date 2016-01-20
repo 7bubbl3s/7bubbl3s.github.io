@@ -330,3 +330,18 @@ Section: Themes
 Description: More icons for inPulse!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: inPulse addons
+
+Package: com.7bubbl3s.blackgeektheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
+Filename: debs//com.7bubbl3s.blackgeektheme_1.0_iphoneos-arm.deb
+Size: 5746726
+MD5sum: d94ce9712652b33f1d884e6ced7afd86
+SHA1: aaa379daa08dd05cc58a5cc6e7e58446c9c22113
+SHA256: 5c443fc6d5eb63ad7242e02459bc5abf8a0f7aa217dc49f9d90154b1374849f8
+Section: Themes
+Description: A theme made for @blackgeektuto by @7bubbl3s, allafacciatua and seanhackmania
+Author: 7bubbl3s, allafacciatua & seanhackmania <darklightunsparkle@live.it>
+Name: BlackGeek theme
