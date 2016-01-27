@@ -332,16 +332,46 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: inPulse addons
 
 Package: com.7bubbl3s.blackgeektheme
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
-Filename: debs//com.7bubbl3s.blackgeektheme_1.0_iphoneos-arm.deb
-Size: 5746726
-MD5sum: d94ce9712652b33f1d884e6ced7afd86
-SHA1: aaa379daa08dd05cc58a5cc6e7e58446c9c22113
-SHA256: 5c443fc6d5eb63ad7242e02459bc5abf8a0f7aa217dc49f9d90154b1374849f8
+Filename: debs//com.7bubbl3s.blackgeektheme_1.0.1_iphoneos-arm.deb
+Size: 5765036
+MD5sum: 6f64d8b5be369861937d7047d9b2a22a
+SHA1: 369501f6e81b785d07b9cbabcce524fcd2272921
+SHA256: cf3b01e047c9ff656a595c98a8541830ddb24be0a001cbb26a214abf7a86b1ec
 Section: Themes
 Description: A theme made for @blackgeektuto by @7bubbl3s, allafacciatua and seanhackmania
 Author: 7bubbl3s, allafacciatua & seanhackmania <darklightunsparkle@live.it>
 Name: BlackGeek theme
+
+Package: com.7bubbl3s.waultimavisita
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard
+Filename: debs//com.7bubbl3s.waultimavisita_1.0_iphoneos-arm.deb
+Size: 1246
+MD5sum: 1f312c70bbea8d1ae2788200d72a7900
+SHA1: d9a014bd1131c063fa3e0bdbf876a6d77edd2c24
+SHA256: 41621ddad955fbd8b44562e4e781f67a846c7de310fbea45c8edb8a6410594ef
+Section: Themes (Apps)
+Description: Riporta la vecchia scritta "ultima visita" presente ai tempi di iOS 6 (fino a WhatsApp 2.11.4) in WhatsApp al posto di "ultimo accesso". Fixa anche il bug per cui la scritta "ultimo accesso alle" scorre poichè è troppo lunga. Testato su WhatsApp 2.12.7. Da usare in WinterBoard
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Ultima Visita per WhatsApp ITALIANO
+
+Package: com.7bubbl3s.ncfonce
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: firmware (>=5.0), winterboard
+Filename: debs//com.7bubbl3s.ncfonce_1.0_iphoneos-arm.deb
+Size: 535382
+MD5sum: 9e63ef4e1937e18ae1ca2758787957ca
+SHA1: 87aa96f9ab43af1fc661cb32e75f151da63b2030
+SHA256: 457b9c4e0de55b4b38f347cba5e99d6f7862f11a4bd2e58420a1e8aebb115aba
+Section: Themes (NotificationCenter)
+Description: a dark NC from iThemes.it
+Author: NessoLogico <sneakaholicc@gmail.com>
+Name: NC Foncé
