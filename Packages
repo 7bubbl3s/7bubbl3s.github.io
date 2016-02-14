@@ -332,15 +332,15 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: inPulse addons
 
 Package: com.7bubbl3s.blackgeektheme
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
-Filename: debs//com.7bubbl3s.blackgeektheme_1.0.1_iphoneos-arm.deb
-Size: 5765036
-MD5sum: 6f64d8b5be369861937d7047d9b2a22a
-SHA1: 369501f6e81b785d07b9cbabcce524fcd2272921
-SHA256: cf3b01e047c9ff656a595c98a8541830ddb24be0a001cbb26a214abf7a86b1ec
+Filename: debs//com.7bubbl3s.blackgeektheme_1.0.2_iphoneos-arm.deb
+Size: 5765030
+MD5sum: e1e4b814e2dd6c233a0b22fcf14736b7
+SHA1: a60f4bd96d4827b22bbfc11a07c688032f322577
+SHA256: 5ad9bb2045cc9fde25ac01e3ac944546c3c3d240e5d068803bbe412f1a87f0d0
 Section: Themes
 Description: A theme made for @blackgeektuto by @7bubbl3s, allafacciatua and seanhackmania
 Author: 7bubbl3s, allafacciatua & seanhackmania <darklightunsparkle@live.it>
@@ -375,3 +375,32 @@ Section: Themes (NotificationCenter)
 Description: a dark NC from iThemes.it
 Author: NessoLogico <sneakaholicc@gmail.com>
 Name: NC Foncé
+
+Package: com.7bubbl3s.bitesmscleanncshortcut
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard
+Filename: debs//com.7bubbl3s.bitesmscleanncshortcut_1.0_iphoneos-arm.deb
+Size: 2872
+MD5sum: 309c51cad7df04ddb7871ffc3ec59e6b
+SHA1: 99ddf5a36fa1c547e39cdce60fcc7dfc78fbba46
+SHA256: 1512b091347ba46ef2cb9dffca09e8e20b5a09e2591939e33080fb6de24f8175
+Section: Themes
+Description: a cleaner quick compose icon in the Notification Center for BiteSMS
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: BiteSMS Clean NC Shortcut
+
+Package: com.7bubbl3s.notificatoritaliano
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.notificatoritaliano_1.0_iphoneos-arm.deb
+Size: 3878
+MD5sum: 80077af7fd9335fdffde688a94195cb3
+SHA1: 167f1ae9628094dc22cd0726e81940aa984b20ae
+SHA256: 10f63c332c678b904e414bba6fe73f495844c179f184ebec80f75b28345bbbf8
+Section: Localization
+Description: Traduce il tweak Notificator completamente in ITALIANO!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Notificator in ITALIANO
