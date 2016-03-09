@@ -404,3 +404,20 @@ Section: Localization
 Description: Traduce il tweak Notificator completamente in ITALIANO!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Notificator in ITALIANO
+
+Package: com.7bubbl3s.waios7preview
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: mobilesubstrate
+Filename: debs//com.7bubbl3s.waios7preview_0.1-2_iphoneos-arm.deb
+Depiction: http://cydia.f0u4d.com/depictions/com.f0u4d.waios7preview/index.php
+Installed-Size: 16
+Size: 1942
+MD5sum: 93dee5123f7389b91a93b8bf3403c14a
+SHA1: 02111fbb85b9824c9d9e192f974c7777bb3cee57
+SHA256: 20fbf50c42e276c48b2006439128f19451633e4b512844db91a9475e8002a56a
+Section: Tweaks
+Description: Enable WhatsApp Notifications Preview on iOS 6-7
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Name: WhatsApp iOS6-7 Preview
