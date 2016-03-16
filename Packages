@@ -104,15 +104,15 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Dialer2Piano WinterBoard Edition
 
 Package: com.7bubbl3s.ios4betafolders
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.ios5themeforios6, com.7bubbl3s.ios4icons
-Filename: debs//com.7bubbl3s.ios4betafolders_1.1_iphoneos-arm.deb
-Size: 647788
-MD5sum: 6eb20b1cfc5fb432c8079c3a6ad38096
-SHA1: 7d03a37b897cca1179d71fb124cc986e7e1c4916
-SHA256: 3aa8088ee9a47a304acafcf7306ef6cea1c2fd1e175e3e6dbc6781638d273077
+Filename: debs//com.7bubbl3s.ios4betafolders_1.1.1_iphoneos-arm.deb
+Size: 764910
+MD5sum: d53949796bce0bfffa5fe6b6e790e187
+SHA1: b18d2f4ea46b702cf151ade9156ecb5da02608b4
+SHA256: de2c6aaf555203f5d0d67765f55e560fa06b4cf0f906aff09a9e990b3bcf1801
 Section: Themes
 Description: make your folders like Apple made them in iOS 4.0 beta!
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -421,3 +421,17 @@ Section: Tweaks
 Description: Enable WhatsApp Notifications Preview on iOS 6-7
 Author: Fouad Raheb <fouad.raheb@gmail.com>
 Name: WhatsApp iOS6-7 Preview
+
+Package: com.7bubbl3s.olddebs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.olddebs_1.0_iphoneos-arm.deb
+Size: 2692548
+MD5sum: 1ba5d78414c5b2e54ab871d4b96785ad
+SHA1: b9e83dce9ffde0f213dfd9045c6e48e50b3d2997
+SHA256: 53adc4f9c8b57b82becda46d7eb7e37a3fdadc580299388ddf9fea1fbaa8647a
+Section: System
+Description: Just some old debs for older iOS versions. They'll be placed in /var/mobile/Downloads/Old debs by 7bubbl3s and ready to be installed via iFile! Warning! Dependancies of each single package must be managed by yourself, because I didn't add any dependancy in this package. Errors shown during installation in iFile will help you. Have fun!
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Old debs
