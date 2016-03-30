@@ -133,21 +133,6 @@ Description: Make your iOS 5-6 iPhone-iPod look like iOS 4!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: iOS 4 icons (addon for iOS 5 theme)
 
-Package: com.7bubbl3s.derpyfixforios6
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: winterboard, com.iphonerepocenter.derpyhoovestheme
-Filename: debs//com.7bubbl3s.derpyfixforios6_1.0_iphoneos-arm.deb
-Size: 14868
-MD5sum: 3bbe416ccc363d53466138622f9d2a0c
-SHA1: 4372ca1d0198a20b9157fb94435cb7a50ef73faa
-SHA256: 6c9f3f2ea70ad15f53a753b226070a5f07bcda1ace1173f25b31c146c2c61689
-Section: Themes
-Description: Fixes Derpy Hooves Theme by FozzyWig on iOS 6
-Author: 7bubbl3s <darklightunsparkle@live.it>
-Name: Derpy fix for iOS 6
-
 Package: com.7bubbl3s.tweetbot4italiano
 Version: 1.0
 Architecture: iphoneos-arm
@@ -163,17 +148,17 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Tweetbot 4 ITALIANO by 7bubbl3s
 
 Package: com.7bubbl3s.runningpineapplenc
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, firmware (>=5.0)
-Filename: debs//com.7bubbl3s.runningpineapplenc_1.0_iphoneos-arm.deb
-Size: 659804
-MD5sum: 758a960df9e1677b1dda145942b0ad38
-SHA1: 64a1c78b79762865bb16272a9c180116d3ff24a5
-SHA256: 41ca5535a8912a8cb0485fd2c80ed7fdbdf4bec574017a4811b656b5db55f93b
+Filename: debs//com.7bubbl3s.runningpineapplenc_1.0.1_iphoneos-arm.deb
+Size: 1140000
+MD5sum: 662c7ebe38ed90f15dd83651b8b6fe8c
+SHA1: 092e4a999fdf302d112f57f1e80924f293c3274a
+SHA256: cade3f96b1b37a6e91e6dc9b66e774398b4a0287479f3809e91321d220ef941b
 Section: Themes (NotificationCenter)
-Description: dedicated to my friend @curlyananas and to everyone who remembers redsn0w
+Description: dedicated to everyone who remembers redsn0w
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Running Pineapple NC (iPhone-iPod)
 
@@ -201,17 +186,17 @@ Author: Conrad Kramer <support@kramerapps.com>
 Name: Graviboard
 
 Package: com.7bubbl3s.runningpineapplencipad
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: firmware (>=5.0), winterboard
-Filename: debs//com.7bubbl3s.runningpineapplencipad_1.0_iphoneos-arm.deb
-Size: 921326
-MD5sum: 61955084eb914d64d0beb0f2c2251753
-SHA1: ed97a89ebcba62ed2eda04183158e4cf503de256
-SHA256: 1753582f881da0d27f8c31a1826fb423a97b9ce9bf9846b5178bab92eafe5b5c
+Filename: debs//com.7bubbl3s.runningpineapplencipad_1.0.1_iphoneos-arm.deb
+Size: 921324
+MD5sum: 9997d867629ed5af94f841f1fa8c2d71
+SHA1: edd275c3382e99a0669cb6f69cf5283ea909e944
+SHA256: 8255f857cd9b5599ee59c7993c3f059c7fbe1b54e9b8f0d2c94048517b4756ba
 Section: Themes (NotificationCenter)
-Description: dedicated to my friend @curlyananas and to everyone who remembers redsn0w
+Description: dedicated to everyone who remembers redsn0w. iPad version
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Running Pineapple NC (iPad)
 
