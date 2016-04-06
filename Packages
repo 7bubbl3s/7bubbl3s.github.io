@@ -420,3 +420,17 @@ Section: System
 Description: Just some old debs for older iOS versions. They'll be placed in /var/mobile/Downloads/Old debs by 7bubbl3s and ready to be installed via iFile! Warning! Dependancies of each single package must be managed by yourself, because I didn't add any dependancy in this package. Errors shown during installation in iFile will help you. Have fun!
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Old debs
+
+Package: com.7bubbl3s.lagunahdfixes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.lagunahdfixes_1.0_iphoneos-arm.deb
+Size: 233530
+MD5sum: fa86f8e7a24077de370f165e0dbc62eb
+SHA1: 2e09c2ed16bbf603fa1febd526adc087039b3dd0
+SHA256: 671921054641c2e2d9f1faf6fd6ae94b06fbbd95a766a0e5d04dbad9f63cf38d
+Section: Themes
+Description: Fixes some icons not working properly in Laguna HD
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Laguna HD FIXES
