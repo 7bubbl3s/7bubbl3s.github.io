@@ -39,35 +39,35 @@ MD5sum: 98938f8a999a3b87aaf118ae3148ce44
 SHA1: 08e484b8914d3a248105c7238ea6f7621a327355
 SHA256: 307716482ac7de1dacfdb11691a28ef0b6a37b7ace37af5fed7931e40045fa4c
 Section: Themes
-Descritpion: Fixes some Colorgasm HD features
+Description: Fixes some Colorgasm HD features
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Colorgasm FIXES
 
 Package: com.7bubbl3s.inpulsefixes
-Version: 1.1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: firmware (>=4.0), com.modmyi.oldcydia, firmware (<<6.0) | com.codethemed.iconbundles, com.modmyi.oldcydia
-Filename: debs//com.7bubbl3s.inpulsefixes_1.1.1_iphoneos-arm.deb
-Size: 1475768
-MD5sum: fd9c2fcd4d0079f656afee1b13ab16ec
-SHA1: 0cf14d2dcd97668513bacfc6dafddb20f78b31ec
-SHA256: f51e6347fd1fbd43a2f6f2cff9b65c6207b7ee6c3a29a2b2d695177bdf980169
+Filename: debs//com.7bubbl3s.inpulsefixes_1.2_iphoneos-arm.deb
+Size: 3343488
+MD5sum: 6855d3b3ddd75abe2dcefdc3f795b10f
+SHA1: 1bf48ea0b7702e4d6106d9c1874835127ef4471e
+SHA256: 3d575e624db841e927296923ee0667419697ba978105b5f0c101391f4bbbeaa9
 Section: Themes
 Description: Fix some inPulse features
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: inPulse FIXES
 
 Package: com.7bubbl3s.ios5themeforios6
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard, com.7bubbl3s.graphicfixesios4-5-6
-Filename: debs//com.7bubbl3s.ios5themeforios6_1.1_iphoneos-arm.deb
-Size: 1473118
-MD5sum: bc50a780d3a1ecfe1b70874dfe749a28
-SHA1: e5aa57a12b97782022217d1d23f0f0bca8bcb8c2
-SHA256: 308d6fd0ef7239302c717137f4be34a909699512b9d2c6d550f930ba7716acd6
+Filename: debs//com.7bubbl3s.ios5themeforios6_1.1.1_iphoneos-arm.deb
+Size: 1487312
+MD5sum: da0435f7791ae3fb4b2f8c1079025a7f
+SHA1: f6e68e62ee09e39376cba991335998070a1dd65c
+SHA256: cf3c5ca7e4d8029d9e7ca84202354238d6f684b01e532d947c73aa0b1da37558
 Section: Themes
 Description: make iOS 6 look like iOS 5!
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -434,3 +434,104 @@ Section: Themes
 Description: Fixes some icons not working properly in Laguna HD
 Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Laguna HD FIXES
+
+Package: com.7bubbl3s.andiamoacomandare
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: firmware (>=2.0) | firmware (>=7.0), com.unlimapps.toneenabler
+Filename: debs//com.7bubbl3s.andiamoacomandare_1.0_iphoneos-arm.deb
+Size: 834674
+MD5sum: bae70955ea018d0f37c296908baea4b9
+SHA1: a46afb6bd67ee68c2529742390469448902ea403
+SHA256: ecdee76f61dbd311cdb600f8845d172bdc708468816c65067c57ccc56444d84f
+Section: Ringtones
+Description: Una suoneria fighissima che ho fatto perchè non avevo un cazzo da fare
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: Andiamo a comandare - Fabio Rovazzi
+
+Package: com.7bubbl3s.crashreporterita
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.crashreporterita_1.0_iphoneos-arm.deb
+Size: 3400
+MD5sum: 45d91e0cdf8b3aec7452457b84f50e3b
+SHA1: 575583eb5caa282e00f85b6911ae67ae4fa4a201
+SHA256: 26b313e99f8df19ce07ec462f36c2ec78f1cfc95e5d2f32a053f15243516a960
+Section: Localization
+Description: Traduce l'app CrashReporter in lingua italiana. Finalmente arriva questa traduzione da parte di allafacciatua e un mio piccolo contributo :P
+Author: allafacciatua and 7bubbl3s <darklightunsparkle@live.it>
+Name: CrashReporter IN ITALIANO
+
+Package: com.7bubbl3s.jax
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: firmware (>=2.0) | firmware (>=7.0), com.unlimapps.toneenabler
+Filename: debs//com.7bubbl3s.jax_1.0_iphoneos-arm.deb
+Size: 85356
+MD5sum: 0ed50a2fb135e7fdaa98157833561d0d
+SHA1: 4d673386d5837f5f6ff6d9bbac9b27e7a836b2a1
+SHA256: e4cd8bad32fdb45b5d8468df1bb571e2d62b8aa4cc8852c70197028f84d37917
+Section: Ringtones
+Description: J-Ax in Andiamo a comandare xD
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: ROVAZZI MA CHE CAZZO FAI
+
+Package: com.7bubbl3s.openbackupita
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.openbackupita_1.0_iphoneos-arm.deb
+Size: 1074
+MD5sum: e1d07ef56d004c6f3e4e9501a10db62a
+SHA1: a362e192c886ade78ba81b882551656b3e562dfe
+SHA256: 42fcae67651bfbfcfd137405bdd0d2a089fede5c6bb6c3bdb001035911f322a8
+Section: Localization
+Description: Traduce OpenBackup IN ITALIANO
+Author: allafacciatua <darklightunsparkle@live.it>
+Name: OpenBackup IN ITALIANO
+
+Package: com.7bubbl3s.po2fix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.po2fix_1.0_iphoneos-arm.deb
+Size: 10416
+MD5sum: 1fa55b39866e93cd1bf262087024c307
+SHA1: c9d57875899a90f9a4c9d40c7ac602aa5451a7c7
+SHA256: 13665f23167bbc6977e570649eb1d24d7a5acf305758ffb4aa7ea887eb6a6e43
+Section: Themes
+Description: Fixes the "Tweaks" icon in the Settings app when using the Preference Organizer 2 tweak. Download the tweak from this repo: http://cydia.angelxwind.net then enable this theme in WinterBoard
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: PO2 iOS 6 FIX
+
+Package: com.7bubbl3s.timitaliano
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.timitaliano_1.0_iphoneos-arm.deb
+Size: 1566
+MD5sum: ce0a2c5ec2dddb25896981180840d098
+SHA1: 19b596b68eff78ba3b1f9b8cc8630f5556fd9add
+SHA256: 6429107990967f6013b996b2d8258b26b3db1d5c88262e7201912b07db97a63a
+Section: Localization
+Description: Traduce l'app ThemeIconMaker IN ITALIANO. Grazie ad allafacciatua per il lavoro di traduzione
+Author: allafacciatua <darklightunsparkle@live.it>
+Name: ThemeIconMaker IN ITALIANO
+
+
+Package: com.7bubbl3s.po2italiano
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Filename: debs//com.7bubbl3s.po2italiano_1.0_iphoneos-arm.deb
+Size: 2186
+MD5sum: 2e2bcf92a76fad266619d920acf99d30
+SHA1: 2cdfe11ef77ce45551d219234864b9f8e0cf639e
+SHA256: 16ddb43f8d736ce76f957347481123b8d149f9800d236982b8c81bd090a80441
+Section: Localization
+Description: Traduce il tweak PreferenceOrganizer 2 IN ITALIANO. Grazie ad allafacciatua per il lavoro di traduzione
+Author: allafacciatua <darklightunsparkle@live.it>
+Name: PreferenceOrganizer 2 IN ITALIANO
