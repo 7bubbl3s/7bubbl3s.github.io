@@ -408,14 +408,14 @@ Author: Fouad Raheb <fouad.raheb@gmail.com>
 Name: WhatsApp iOS6-7 Preview
 
 Package: com.7bubbl3s.olddebs
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Filename: debs//com.7bubbl3s.olddebs_1.0_iphoneos-arm.deb
-Size: 2692548
-MD5sum: 1ba5d78414c5b2e54ab871d4b96785ad
-SHA1: b9e83dce9ffde0f213dfd9045c6e48e50b3d2997
-SHA256: 53adc4f9c8b57b82becda46d7eb7e37a3fdadc580299388ddf9fea1fbaa8647a
+Filename: debs//com.7bubbl3s.olddebs_1.0.1_iphoneos-arm.deb
+Size: 5242234
+MD5sum: 1d7edeaacf4d2f6e9368c8771fcfcf8a
+SHA1: 38bf0bdbde54b028fc6afd7840d2905c8fde3d5b
+SHA256: b6dcb71166a51a4d41e9a8827f2b7f1acd22cb9ca5ac749e19d6c2cb574ff40e
 Section: System
 Description: Just some old debs for older iOS versions. They'll be placed in /var/mobile/Downloads/Old debs by 7bubbl3s and ready to be installed via iFile! Warning! Dependancies of each single package must be managed by yourself, because I didn't add any dependancy in this package. Errors shown during installation in iFile will help you. Have fun!
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -436,15 +436,15 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Laguna HD FIXES
 
 Package: com.7bubbl3s.andiamoacomandare
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=2.0) | firmware (>=7.0), com.unlimapps.toneenabler
-Filename: debs//com.7bubbl3s.andiamoacomandare_1.0_iphoneos-arm.deb
-Size: 834674
-MD5sum: bae70955ea018d0f37c296908baea4b9
-SHA1: a46afb6bd67ee68c2529742390469448902ea403
-SHA256: ecdee76f61dbd311cdb600f8845d172bdc708468816c65067c57ccc56444d84f
+Depends: firmware (>=2.0), firmware (<7.0) | firmware (>=7.0), com.unlimapps.toneenabler
+Filename: debs//com.7bubbl3s.andiamoacomandare_1.0.1_iphoneos-arm.deb
+Size: 834686
+MD5sum: 9cdc08dee1eca9052b707837c696e572
+SHA1: 1f50f5fc42c591a6f1e017401382c5c52547a855
+SHA256: 707b6e613d682ad868b71289dd5e858dc985020c5a16813d5fd5a07eacf5fdc8
 Section: Ringtones
 Description: Una suoneria fighissima che ho fatto perchè non avevo un cazzo da fare
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -465,15 +465,15 @@ Author: allafacciatua and 7bubbl3s <darklightunsparkle@live.it>
 Name: CrashReporter IN ITALIANO
 
 Package: com.7bubbl3s.jax
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=2.0) | firmware (>=7.0), com.unlimapps.toneenabler
-Filename: debs//com.7bubbl3s.jax_1.0_iphoneos-arm.deb
-Size: 85356
-MD5sum: 0ed50a2fb135e7fdaa98157833561d0d
-SHA1: 4d673386d5837f5f6ff6d9bbac9b27e7a836b2a1
-SHA256: e4cd8bad32fdb45b5d8468df1bb571e2d62b8aa4cc8852c70197028f84d37917
+Depends: firmware (>=2.0), firmware (<7.0) | firmware (>=7.0), com.unlimapps.toneenabler
+Filename: debs//com.7bubbl3s.jax_1.0.1_iphoneos-arm.deb
+Size: 85368
+MD5sum: 4d8fe5c97b70244b27a414fd49eff997
+SHA1: 015241f5cacdd35880cab9006b446e61a744cf8c
+SHA256: cc8a3dfc61635ed1428389fc5396e100da6abff697324377554467501c9c28fb
 Section: Ringtones
 Description: J-Ax in Andiamo a comandare xD
 Author: 7bubbl3s <darklightunsparkle@live.it>
