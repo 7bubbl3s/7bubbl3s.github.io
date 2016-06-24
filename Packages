@@ -436,15 +436,14 @@ Author: 7bubbl3s <darklightunsparkle@live.it>
 Name: Laguna HD FIXES
 
 Package: com.7bubbl3s.andiamoacomandare
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=2.0), firmware (<<7.0) | firmware (>=7.0), com.unlimapps.toneenabler
-Filename: debs//com.7bubbl3s.andiamoacomandare_1.0.1_iphoneos-arm.deb
-Size: 834688
-MD5sum: d19e4750899b43768343d79463088357
-SHA1: bf292f84c6c24605118326aa7f051936407d5ce1
-SHA256: cb7efcc4ddc0742289299a54bda266964658749abbc26f49efc345c22e8ecddd
+Filename: debs//com.7bubbl3s.andiamoacomandare_1.0.2_iphoneos-arm.deb
+Size: 834632
+MD5sum: e525512aa26ab6b4e671f32ed5e2c8f9
+SHA1: eb5ab41c4a948d2fe40a7d1daadde3787e22c88c
+SHA256: c61163ae8f908a1ff17accce2a3159023494493d8e0302e112041b01cf3d8543
 Section: Ringtones
 Description: Una suoneria fighissima che ho fatto perchè non avevo un cazzo da fare
 Author: 7bubbl3s <darklightunsparkle@live.it>
@@ -465,15 +464,14 @@ Author: allafacciatua and 7bubbl3s <darklightunsparkle@live.it>
 Name: CrashReporter IN ITALIANO
 
 Package: com.7bubbl3s.jax
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
-Depends: firmware (>=2.0), firmware (<<7.0) | firmware (>=7.0), com.unlimapps.toneenabler
-Filename: debs//com.7bubbl3s.jax_1.0.1_iphoneos-arm.deb
-Size: 85370
-MD5sum: 187601e315f78f991a2183c8b44120e8
-SHA1: 752f8e0733051f344b5911815dac9e2bb515f877
-SHA256: d8591082e4cd13ca68965fb38b9f58310f2a990b93f3e5dde0d8c9def8a47780
+Filename: debs//com.7bubbl3s.jax_1.0.2_iphoneos-arm.deb
+Size: 85316
+MD5sum: e0a590370250d2da2b39b59cbb44c322
+SHA1: 6cb25fd64f0be57377de64826d24897f08c443cf
+SHA256: 3c19bd05c16dc4014380ad345d639456d036278360a42646935899dd9ddf89fa
 Section: Ringtones
 Description: J-Ax in Andiamo a comandare xD
 Author: 7bubbl3s <darklightunsparkle@live.it>
