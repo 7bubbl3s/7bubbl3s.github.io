@@ -1,13 +1,13 @@
 Package: com.7bubbl3s.graphicfixesios4-5-6
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: firmware (>=4.0), com.modmyi.oldcydia, firmware (<<6.0) | com.codethemed.iconbundles, com.modmyi.oldcydia
-Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.1.1_iphoneos-arm.deb
-Size: 150140
-MD5sum: da96f23159ae758ec19577978c260c45
-SHA1: 96c61e9c9c934d1f7ef9253a42e37b16e469c107
-SHA256: 964c2e93065e750f991d2d36c088608cb2b4d52251a7fff56b8859c8a43b9d2b
+Filename: debs//com.7bubbl3s.graphicfixesios4-5-6_1.1.2_iphoneos-arm.deb
+Size: 187250
+MD5sum: 0c41e7804064cdb5ca1898d6618c5b5b
+SHA1: cb2a2b1af9883769cb92f85eac96e45da9dfb0b4
+SHA256: 71818099534b6af0aefe5e0f2e90fee0039fb9fbfb9fa63cd7141183612b91b4
 Section: Themes
 Description: Fixes some icons not working properly
 Author: 7bubbl3s <darklightunsparkle@live.it>
