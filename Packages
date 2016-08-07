@@ -138,10 +138,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Redenfire <?????>
 Filename: debs//com.7bubbl3s.tweetbot4italiano_1.0_iphoneos-arm.deb
-Size: 726
-MD5sum: 1d0f84164530c4400323ef7bdf057eeb
-SHA1: c80ae806783dc9e1d7a7c9f27e7208b0e2e363ed
-SHA256: 9ac52a27d6d057f8532c85ef751a9be0ac0f0b15c870a34335f5a325789aaa4b
+Size: 18914
+MD5sum: 9ec266b4025805564a5b3e79a4e8ac8f
+SHA1: 5c5f89be9258a537c4bdeeaff2ff50a1ad19d897
+SHA256: 07c82b602486eea56797c76e50e2384f8c8237c9d58e002ad3aaaa53adfa2941
 Section: Localization
 Description: vedi cartella /var/mobile/Tweetbot 4 ITA by 7bubbl3s dopo installazione OBSOLETO: SOLO PER CHI HA PROBLEMI CON QUELLO ATTUALE SULLA REPO DI BITEYOURAPPLE
 Author: 7bubbl3s <darklightunsparkle@live.it>
