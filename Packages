@@ -533,3 +533,19 @@ Section: Localization
 Description: Traduce il tweak PreferenceOrganizer 2 IN ITALIANO. Grazie ad allafacciatua per il lavoro di traduzione
 Author: allafacciatua <darklightunsparkle@live.it>
 Name: PreferenceOrganizer 2 IN ITALIANO
+
+Package: com.7bubbl3s.arisewallpapers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 7bubbl3s <darklightunsparkle@live.it>
+Depends: winterboard
+Depiction: depic://com.7bubbl3s.arisewallpapers.html
+Filename: debs//com.7bubbl3s.arisewallpapers_1.0_iphoneos-arm.deb
+Size: 7501198
+MD5sum: 423431b14d48e116f31b519d0907146b
+SHA1: c7edb632658298b4dbc0f33b92c1f927c9bc3f49
+SHA256: 665f3f52bb31b759ec2004be376701c34d9b9787c615cd12598064c8e6a2693a
+Section: Themes (SpringBoard)
+Description: A-RISE per page wallpapers for your iPhone-iPod Touch! Apply with WinterBoard. iOS 4-5-6 only
+Author: 7bubbl3s <darklightunsparkle@live.it>
+Name: A-RISE Wallpapers Theme
