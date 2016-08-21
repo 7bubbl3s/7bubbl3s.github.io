@@ -539,12 +539,12 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard
-Depiction: depic://com.7bubbl3s.arisewallpapers.html
+Depiction: http://7bubbl3s.github.io/depic/com.7bubbl3s.arisewallpapers.html
 Filename: debs//com.7bubbl3s.arisewallpapers_1.0_iphoneos-arm.deb
-Size: 7501198
-MD5sum: 423431b14d48e116f31b519d0907146b
-SHA1: c7edb632658298b4dbc0f33b92c1f927c9bc3f49
-SHA256: 665f3f52bb31b759ec2004be376701c34d9b9787c615cd12598064c8e6a2693a
+Size: 7501210
+MD5sum: 86184bdf248f336ae2db4b98318138cf
+SHA1: 35c398fc7440e7d2e86d3f77b097e4ef1a1780ec
+SHA256: c370399126e8540e8df9618150fca53883a31bc54e496086318c56098c74a9f2
 Section: Themes (SpringBoard)
 Description: A-RISE per page wallpapers for your iPhone-iPod Touch! Apply with WinterBoard. iOS 4-5-6 only
 Author: 7bubbl3s <darklightunsparkle@live.it>
