@@ -535,16 +535,16 @@ Author: allafacciatua <darklightunsparkle@live.it>
 Name: PreferenceOrganizer 2 IN ITALIANO
 
 Package: com.7bubbl3s.arisewallpapers
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 7bubbl3s <darklightunsparkle@live.it>
 Depends: winterboard
 Depiction: http://7bubbl3s.github.io/depic/com.7bubbl3s.arisewallpapers.html
-Filename: debs//com.7bubbl3s.arisewallpapers_1.0_iphoneos-arm.deb
-Size: 7501210
-MD5sum: 86184bdf248f336ae2db4b98318138cf
-SHA1: 35c398fc7440e7d2e86d3f77b097e4ef1a1780ec
-SHA256: c370399126e8540e8df9618150fca53883a31bc54e496086318c56098c74a9f2
+Filename: debs//com.7bubbl3s.arisewallpapers_1.0.1_iphoneos-arm.deb
+Size: 8543764
+MD5sum: cad0ca751c0ddc14e7dc1bb12217540a
+SHA1: d25ddd1688e861a0f0010c6e27f3f4ae9578e030
+SHA256: 54948a6882655bb856cbec437b62360bebf74c4471ed6fad6639a0eac4224321
 Section: Themes (SpringBoard)
 Description: A-RISE per page wallpapers for your iPhone-iPod Touch! Apply with WinterBoard. iOS 4-5-6 only
 Author: 7bubbl3s <darklightunsparkle@live.it>
